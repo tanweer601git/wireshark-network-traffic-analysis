@@ -255,8 +255,10 @@ Key evidence includes:
 - Expert Information
 - Host-based packet filtering
 
-<img width="1580" height="615" alt="apktool" src="" />
+<img width="1580" height="615" alt="apktool" src="TCP SYN packets.png" />
+TCP SYN packets.png
 
+<img width="1580" height="615" alt="apktool" src="" />
 
 ## Lessons Learned
 
